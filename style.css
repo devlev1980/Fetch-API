@@ -1,0 +1,43 @@
+body{
+	margin: 0;
+	padding:0;
+
+}
+
+
+.buttons{
+	text-align: center;
+	margin-top: 20px;
+
+}
+input.btn.btn-primary {
+    margin-top: 15px;
+}
+#myForm{
+	width: 300px;
+	margin: 20px  auto;
+}
+#submitBtn{
+ margin-top: 10px;
+}
+.wrapper{
+	margin: 50px auto;
+	padding: 10px 10px;
+
+	background: #f3f3f3 !important;
+/*border: 1px solid #111111;*/
+	width: 500px;
+ }
+ .output{
+	padding-left: 20px;
+	padding-top: 20px;
+	
+	/* color: red; */
+ }
+ .output li{
+	padding-left: 20px;
+	padding-top: 20px;
+	list-style: none;
+	
+	/* color: red; */
+ }
